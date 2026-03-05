@@ -118,17 +118,6 @@ Experienced in delivering **enterprise-level products** across **Real Estate, Lo
 
 ---
 
-### **Food Ordering Application**
-**Duration:** Jun 2024 – Dec 2024  
-**Role:** Frontend Developer  
-**Tech:** Next.js, Redux, MongoDB, Tailwind CSS, WebSocket, Vercel  
-
-- Developed frontend for food ordering and real-time order tracking
-- Implemented Redux for scalable state management
-- Built responsive UI using Tailwind CSS
-
----
-
 ## 🎓 Education
 **B.Tech – Information Technology**  
 UPTU | 2013
